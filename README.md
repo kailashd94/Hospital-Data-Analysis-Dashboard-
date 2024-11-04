@@ -1,2 +1,2 @@
 # Hospital-Data-Analysis-Power-BI-Dashboard
-Hospital Data Analysis and visualisation using PowerBi
+Hospital Data Analysis and visualization using PowerBi
